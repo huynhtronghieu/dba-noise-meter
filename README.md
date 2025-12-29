@@ -4,8 +4,6 @@ Một ứng dụng web đo độ ồn thời gian thực với giao diện Visua
 
 🔗 **Demo:** [https://dba.hieu.website](https://dba.hieu.website)
 
-![DBA Noise Meter Screenshot](https://via.placeholder.com/800x450?text=DBA+Noise+Meter+Screenshot)
-
 ## ✨ Tính Năng Chính
 
 *   📊 **Đo độ ồn thời gian thực:** Hiển thị chỉ số dBA chính xác.
