@@ -17,9 +17,9 @@ export const AUDIO_CONFIG = {
     fftSize: 2048,
     smoothingTimeConstant: 0.8,
     dbaSmoothing: 0.92,          // Weight for previous value
-    dbaOffset: 20,               // Offset for dBA calculation
+    dbaOffset: 70,               // Offset for dBA calculation (adjusted based on user feedback)
     minDBA: 20,
-    maxDBA: 120,
+    maxDBA: 140,
     displayUpdateInterval: 500   // ms between display updates
 };
 
